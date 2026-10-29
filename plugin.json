@@ -7,6 +7,7 @@
     "name": "Unisea AS"
   },
   "homepage": "https://www.maindeck.io",
+  "license": "Apache-2.0",
   "extensions": {
     "com.openai": {
       "interface": {
